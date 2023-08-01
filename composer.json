@@ -1,0 +1,15 @@
+{
+    "require": {
+        "bera/bera-db": "^1.0",
+        "bera/bera-router": "^1.0",
+        "vlucas/phpdotenv": "^5.5",
+        "imagekit/imagekit": "^3.0",
+        "cocur/slugify": "^4.3",
+        "fakerphp/faker": "^1.9.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src"
+        }
+    }
+}
