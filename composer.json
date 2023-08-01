@@ -1,7 +1,7 @@
 {
     "name": "bera/bera-app",
     "description": "A php framework for building websites and api",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
